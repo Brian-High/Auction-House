@@ -1,0 +1,5 @@
+Users, ID, Type, Amount
+Bill, 21010, 0, 100.0
+new_name, 1111, 1, 300.0
+Howdy, 2121, 0, 0.0
+Bills-AuctionHouse, 1423, 1, 0.0

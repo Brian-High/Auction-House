@@ -1,0 +1,6 @@
+1. Make sure the user.txt file is has the path src/bank/user.txt
+2. Run “java -jar Bank.jar 1234” 1234 being the port
+3. Run “java -jar auction.jar 1235” 
+4. Login to the bank as a new user
+5. Run “java -jar agent.jar localhost 1234” host and port of bank
+6. Login with the default
